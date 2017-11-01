@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 234
     height: 640
-  m_MinSize: {x: 234, y: 492}
-  m_MaxSize: {x: 10004, y: 14042}
+  m_MinSize: {x: 234, y: 471}
+  m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
   controlID: 72
 --- !u!114 &4
@@ -89,8 +89,8 @@ MonoBehaviour:
     y: 0
     width: 234
     height: 330
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -186,8 +186,8 @@ MonoBehaviour:
     y: 30
     width: 1280
     height: 640
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 713, y: 471}
+  m_MaxSize: {x: 18008, y: 14021}
   vertical: 0
   controlID: 49
 --- !u!114 &9
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ee240000
     m_LastClickedID: 9454
-    m_ExpandedIDs: 0000000040270000da270000542a0000c62a0000ca2a00008c2c0000f82c0000302d0000322d0000b62d000036310000d8390000
+    m_ExpandedIDs: 000000003c270000d6270000502a0000c22a0000c62a0000882c0000f42c00002c2d00002e2d0000b22d000032310000e0390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -391,24 +391,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 341}
+    scrollPos: {x: 0, y: 357}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000040270000da270000542a0000c62a0000ca2a00008c2c0000f82c0000302d0000322d0000b62d000036310000d8390000
+    m_ExpandedIDs: 000000003c270000502a0000c22a0000c62a0000882c0000f42c00002c2d00002e2d0000b22d000032310000e0390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: PlayController4
+      m_OriginalName: PlayController4
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 30524
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 2}
     m_SearchString: 
@@ -582,13 +582,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0.13310246, y: -0.0044599418, z: 0.00059896335, w: 0.9910922}
     speed: 2
-    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Value: {x: 0.13310245, y: -0.0044599413, z: 0.0005989633, w: 0.9910921}
   m_Size:
-    m_Target: 74.20591
+    m_Target: 48.57872
     speed: 2
-    m_Value: 74.20591
+    m_Value: 48.57872
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -627,24 +627,24 @@ MonoBehaviour:
     width: 230
     height: 309
   m_TreeViewState:
-    scrollPos: {x: 0, y: 60}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 6454feffa6fbffff00000000ce330000
+    m_ExpandedIDs: a666ffffa6fbffff00000000e6330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Cat
-      m_OriginalName: Cat
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12826
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 

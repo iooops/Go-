@@ -57,6 +57,9 @@
      <Compile Include="Assets\Scripts\GetIntExample.cs" />
      <Compile Include="Assets\Scripts\PlayController0.cs" />
      <Compile Include="Assets\Scripts\PlayController1.cs" />
+     <Compile Include="Assets\Scripts\PlayController2.cs" />
+     <Compile Include="Assets\Scripts\PlayController3.cs" />
+     <Compile Include="Assets\Scripts\PlayController4.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\RotateCamera.cs" />
      <None Include="Assets\Dessert Heaven Pack\readme.txt" />
