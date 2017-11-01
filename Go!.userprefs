@@ -1,12 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayController4.cs">
     <Files>
-      <File FileName="Assets/Scripts/RotateCamera.cs" Line="101" Column="6" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/RotateCamera.cs" Line="95" Column="6" />
       <File FileName="Assets/Scripts/GenerateFood.cs" Line="12" Column="1" />
-      <File FileName="Assets/Scripts/PlayController0.cs" Line="7" Column="30" />
-      <File FileName="Assets/Scripts/PlayController1.cs" Line="13" Column="39" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="26" Column="11" />
+      <File FileName="Assets/Scripts/PlayController0.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/PlayController1.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/PlayController2.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/PlayController3.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/PlayController4.cs" Line="22" Column="39" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
